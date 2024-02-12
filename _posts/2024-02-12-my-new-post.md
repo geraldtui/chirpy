@@ -6,7 +6,7 @@ categories: [Notion]
 tags: [website, notion]
 toc: true
 image:
-    path: /assets/lib/images/Cover_Photos.png
+    path: /assets/Cover_Photos.png
 ---
 
 
@@ -30,11 +30,11 @@ Use it to manage your websites styling, colours, access etc..
 
 It should look something like this: 
 
-![Untitled](/assets/lib/images/Untitled%201.png)
+![Untitled](/assets/Untitled%201.png)
 
 4. Share the page to the web by clicking on **“Share”** on the top right
 
-![Untitled](/assets/lib/images/Untitled%201.png)
+![Untitled](/assets/Untitled%201.png)
 
 Here’s where you’ll find the link which will come in handy when setting up your website on **Super**
 
@@ -45,7 +45,7 @@ Here’s where you’ll find the link which will come in handy when setting up y
 1. Signup for a **Super** account here 👉 [https://app.super.so/signup](https://app.super.so/signup) 
 2. Once on the “Sites” page, click “New Site +” 
 
-![Untitled](/assets/lib/images/Untitled%202.png)
+![Untitled](/assets/Untitled%202.png)
 
 3. Select “Free Site” 
 
@@ -53,17 +53,17 @@ Here’s where you’ll find the link which will come in handy when setting up y
 
 5. Paste your “Hello World” Notion page link
 
-![Untitled](/assets/lib/images/Untitled%203.png)
+![Untitled](/assets/Untitled%203.png)
 
 6. Once your site gets, you’ll notice that Notion has given you a random domain name. I got “raw-rhinoceros.super.site”
 
-![Untitled](/assets/lib/images/Untitled%204.png)
+![Untitled](/assets/Untitled%204.png)
 
 7. You can change this by clicking on “Domains” 
 
 8. Change and save it to a unique domain
 
-![Untitled](/assets/lib/images/Untitled.gif)
+![Untitled](/assets/Untitled.gif)
 
 9. Congratulations! You’ve just created a website simply by creating a Notion page for your content and Super to hose your website. 
 
