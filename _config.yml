@@ -14,9 +14,9 @@ timezone: Pacific/Auckland
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Gerald Tui # the main title
+title: Gerald Tuimaleali'ifano 🇼🇸 🇳🇿 🇨🇰 # the main title
 
-tagline: SRE @ Workday # it will display as the sub-title
+tagline: Site Reliability Engineer | Community Volunteer | Content Creator # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -28,18 +28,18 @@ url: "https://geraldtui.github.io"
 github:
   username: geraldtui # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+# twitter:
+#   username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Gerald Tuimalealiifano
-  email: gerald.tui@gmail.com # change to your email address
+  #email: gerald.tui@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    # - https://twitter.com/username # change to your twitter homepage
+    #- https://github.com/geraldtui # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -112,7 +112,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "/chirpy"
+baseurl: "/chirpy" # full URL is "https://geraldtui.github.io/chirpy"
 
 # ------------ The following options are not recommended to be modified ------------------
 
@@ -183,6 +183,7 @@ exclude:
   - LICENSE
   - rollup.config.js
   - package*.json
+  - .post-template
 
 jekyll-archives:
   enabled: [categories, tags]
