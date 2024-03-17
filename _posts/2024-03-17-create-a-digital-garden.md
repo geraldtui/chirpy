@@ -5,6 +5,7 @@ date: 2024-02-24 00:00 +13
 categories: [how-to]
 tags: [jekyll, digital-garden, how-to]
 toc: true
+author: Gerald Tuimaleali'ifano
 ---
 
 ## Pre-Requisites
