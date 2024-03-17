@@ -16,10 +16,10 @@ timezone: Pacific/Auckland
 
 title: Gerald Tuimaleali'ifano 🇼🇸 🇳🇿 🇨🇰 # the main title
 
-tagline: Site Reliability Engineer | Community Volunteer | Content Creator # it will display as the sub-title
+tagline: SRE | DevOps | Community Volunteer | Content Creator # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Gerald Tuimaleali'ifano's Digital Garden where he documents and learns in public. 
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -38,11 +38,9 @@ social:
   #email: gerald.tui@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    # - https://twitter.com/username # change to your twitter homepage
-    #- https://github.com/geraldtui # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/geraldtui/
+    - https://github.com/geraldtui 
+
 
 google_site_verification: # fill in to your verification string
 
