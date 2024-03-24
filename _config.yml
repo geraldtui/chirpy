@@ -14,9 +14,9 @@ timezone: Pacific/Auckland
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Gerald Tuimaleali'ifano 🇼🇸 🇳🇿 🇨🇰 # the main title
+title: Gerald Tuimaleali'ifano # the main title
 
-tagline: SRE | DevOps | Community Volunteer | Content Creator # it will display as the sub-title
+tagline: SRE / DevOps <br> Community Volunteer <br> Part-time Content Creator <br>  <h2> 🇼🇸 🇳🇿 🇨🇰 </h2> # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Gerald Tuimaleali'ifano's Digital Garden where he documents and learns in public. 

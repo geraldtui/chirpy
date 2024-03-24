@@ -1,6 +1,6 @@
 ---
 layout: archives
-icon: fas fa-archive
-order: 2
+icon: fas fa-list-ul
+order: 1
 title: All Posts
 ---
