@@ -144,4 +144,4 @@ Checkout the official Chirpy docs for specific Chirpy syntax 👉 https://chirpy
 3. Markdown 
    - Automatically saves pasted images into a directory of your choice. I use `/asets/images` 
    - In your VSCode Settings use this item in `Copy Files: Destination` 
-    ![alt text](../assets/images/2024-03-17-create-a-digital-garden/screenshot-202403240149.png)
+    ![alt text](/assets/images/2024-03-17-create-a-digital-garden/screenshot-202403240149.png)
